@@ -2,9 +2,6 @@
 
 **Unity 게임 UI · 게임 진행 저장 · DirectX 11 그래픽스**
 
-![AliceRenderer 실행 화면](https://github.com/user-attachments/assets/9dea4cd7-dee2-47c6-bca4-e2ed3411c6a6)
-
-[AliceRenderer 엔진 구조와 렌더링 루프 보기 →](https://github.com/chogangjin/4Q_AliceRenderer#readme)
 
 ## 🕹️ HeroInfluence
 
